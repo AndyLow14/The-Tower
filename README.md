@@ -1,29 +1,11 @@
-**The University of Melbourne**
+# The Tower (Tower Defense in Unity)
 
-# COMP30019 – Graphics and Interaction
+### Game Trailer  
+Available on Youtube - [HERE](https://www.youtube.com/watch?v=bPIBJF3TSLo)
 
-## Teamwork plan/summary
-
-<!-- [[StartTeamworkPlan]] PLEASE LEAVE THIS LINE UNTOUCHED -->
-
-<!-- Fill this section by Milestone 1 (see specification for details) -->
-
-### Roles:
-
-- **Andy Low** - Development Manager: Deals with project organization, developing a timeline and making sure the team is on track. Gameplay Developer: Deals with gameplay elements such as enemy wave spawning, difficulty as time progresses in-game, different towers and weapons, aiming mechanics and explosion particle effects.
-- **Bowen Fan** - Gameplay Developer: Deals with gameplay elements mainly the shop. Handles logic like game progression and upgrades, user input and controls. Sound Designer: Maintains the in-game audio manager and code for playing sounds and music. UI designer: implements in game menu and ui and other user interactions.
-- **Xi Chen** - Game Designer: Visual design, making sure the game looks appealing. Works with shaders, supported with documentation and querying and observational methods. Edited trailer video.
-- **Yu Cao** - System Developer: Deals with map generation. Development Management: Writes the report and evaluation such as querying and observational techniques and documents improvements to be made to the game.
-
-<!-- [[EndTeamworkPlan]] PLEASE LEAVE THIS LINE UNTOUCHED -->
-
-## Final report
-
-Link to Trailer Video - [here](https://www.youtube.com/watch?v=bPIBJF3TSLo)
-
-Remember that _"this document"_ should be `well written` and formatted **appropriately**.
-Below are examples of markdown features available on GitHub that might be useful in your report.
-For more details you can find a guide [here](https://docs.github.com/en/github/writing-on-github).
+<p align="left">
+  <img src="Gifs/TowerExplosion.gif" width="500">
+</p>
 
 ### Table of contents
 
@@ -33,7 +15,7 @@ For more details you can find a guide [here](https://docs.github.com/en/github/w
 - [Evaluation](#evaluation)
 - [Technologies](#technologies)
 - [References](#references)
-- [Extra GIFs](#extra-gifs)
+- [The Team](#the-team)
 
 ### Game Summary
 
@@ -186,9 +168,10 @@ Project is created with:
 - [Fire shader tutorial](https://www.febucci.com/2019/05/fire-shader/)
 - [Font - Cozette Vector](https://github.com/slavfox/Cozette)
 
-### Extra GIFs
+### The Team
 
-<p align="center">
-  <img src="Gifs/TowerExplosion.gif" width="500">
-</p>
+- **Andy Low** - Development Manager: Deals with project organization, developing a timeline and making sure the team is on track. Gameplay Developer: Deals with gameplay elements such as enemy wave spawning, difficulty as time progresses in-game, different towers and weapons, aiming mechanics and explosion particle effects.
+- **Bowen Fan** - Gameplay Developer: Deals with gameplay elements mainly the shop. Handles logic like game progression and upgrades, user input and controls. Sound Designer: Maintains the in-game audio manager and code for playing sounds and music. UI designer: implements in game menu and ui and other user interactions.
+- **Xi Chen** - Game Designer: Visual design, making sure the game looks appealing. Works with shaders, supported with documentation and querying and observational methods. Edited trailer video.
+- **Yu Cao** - System Developer: Deals with map generation. Development Management: Writes the report and evaluation such as querying and observational techniques and documents improvements to be made to the game.
 
